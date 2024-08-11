@@ -10,3 +10,9 @@ body{
 
 
 /* Contact BODY END */
+
+/* ABOUT CSS START*/
+    .about-container{
+        background-color:blue;
+    }
+/*ABOUT CSS END*/
